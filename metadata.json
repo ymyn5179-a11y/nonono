@@ -1,0 +1,8 @@
+{
+  "name": "NonoLand",
+  "description": "NonoLand is an interactive bilingual (Arabic/English) educational universe for Little Explorers aged 1 to 4 years featuring adaptive learning, 10 animated worlds, 127 interactive curriculum lessons, Nono's Discovery Lab, branching stories, customizable My Room, and parent/teacher/admin insights dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
